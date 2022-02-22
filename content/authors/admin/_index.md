@@ -1,6 +1,7 @@
 ---
 title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
