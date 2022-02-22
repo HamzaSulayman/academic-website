@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: Hamza Sulayman Abdullahi
 role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
